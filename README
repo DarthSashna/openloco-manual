@@ -1,0 +1,79 @@
+This is an unofficial project to create a free-content manual for 
+'OpenLoco', a free and open-source transport simulation derived from 
+'Chris Sawyer's Locomotion'.
+
+
+Rationale
+
+'Chris Sawyer's Locomotion', as with practially all games of its time, 
+comes with a manual. While this manual is mostly applicable to 
+'OpenLoco', it of course does not document the many improvements made by 
+'OpenLoco's. Documentation of those changes is scattered and not really 
+focused on new players.
+
+Additionally, it is proprietary, just like 'Chris Sawyer's Locomotion' 
+itself. Thus, if the community manages to develop a complete set of free 
+sounds, graphics and scenarios for use with OpenLoco, players may be 
+able to play OpenLoco, but may struggle to understand how to play.
+
+An additional limitation of the 'Chris Sawyer's Locomotion' manual is 
+that it was meant for use as a printed document. Modern retailers like 
+GOG and Steam provide a PDF version. However, this is less accessible 
+and readable than a digital-native book would be.
+
+This project thus aims to:
+
+  1. Provide a free-content manual. This means that anyone can use, 
+     share and modify it as they please, so long as they follow the 
+     licence conditions.
+
+  2. Document 'OpenLoco' as it exists, including its many improvements 
+     over 'Chris Sawyer's Locomotion'.
+
+  3. Be readily available in digital formats, such as HTML.
+
+
+Non-goals
+
+This project does not aim to:
+
+  - Document 'Chris Sawyer's Locomotion'.
+
+  - Compare 'OpenLoco' with any other game, including 'Chris Sawyer's 
+    Locomotion'.
+
+
+Building
+
+The book is built using mdBook, version 0.5.2, which is available from:
+https://github.com/rust-lang/mdBook/tree/master/guide
+
+
+Style Notes
+
+Please keep blank lines between elements in the source. This includes 
+list items. It makes it much easier to format paragraphs.
+
+Limit paragraphs in the source to 80 characters.
+
+I find GitHub-style tables annoying to work with and would rather use 
+embedded HTML.
+
+Please use Australian English: 'colour' instead of 'color', 'railway' 
+instead of 'railroad', 'truck' instead of 'lorry', etc.
+
+
+Licence
+
+This book is licensed under Creative Commons Attribution Share-Alike 4.0 
+International. The legal code is included in the 'LEGALCODE' file or can 
+be accessed from:
+https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+In summary, you may share and modify this book for any purpose, 
+commercial or not, provided you provide attribution, share-alike 
+(license modified versions under the same or compatible terms) and do 
+not impose technical restrictions others's use of this book or a 
+modified version.
+
+Copyright Jack 'Sashna' Tratt 2026.
