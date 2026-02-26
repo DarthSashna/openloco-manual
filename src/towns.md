@@ -7,8 +7,9 @@ into productive cities. However, destroying them or the local
 environment will earn their ire and they may forbid building demolition.
 
 Town buildings produce passengers and mail. Larger buildings produce far 
-more passengers than smaller ones. All towns accept passengers and 
-groups of large buildings accept mail, food and goods.
+more passengers than smaller ones. [Stations](stations.md) in towns can accept 
+passengers and ones near groups of large buildings accept mail, food and 
+goods.
 
 Town roads can be used by transport companies. The smallest towns use 
 dirt roads and brick and wooden bridges. Larger towns use sealed roads 
