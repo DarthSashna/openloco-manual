@@ -6,8 +6,8 @@ Your job is to provide transportation services to them using trains,
 trams, busses, trucks, aircraft and ships.
 
 But not all is so simple. You will have to navigate harsh topography, 
-adapt to old industries closing as new ones arise and outcompete 
-aggressive competitors to come out on top. You will also need to avoid 
+adapt to old industries closing as new ones arise and cope with the 
+growing demand for your services to succeed. You will also need to avoid 
 own goals, including angering the authorities, congesting your networks 
 and vehicles crashing into each other.
 
