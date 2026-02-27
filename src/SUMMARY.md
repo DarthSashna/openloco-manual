@@ -1,7 +1,7 @@
 # Summary
 
 [OpenLoco Manual](./copyrights.md)
-[Foreword]()
+[Foreword](./foreword.md)
 [Introduction](./introduction.md)
 
 # Preliminaries
@@ -15,25 +15,23 @@
 - [Adjusting Settings]()
 - [Controlling the View]()
 
-# World
+# Gameplay
 
-- [Terrain]()
-- [Towns](./towns.md)
-- [Industries]()
-- [Companies]()
-- [Infrastructure]()
-- [Stations]()
+- [World]()
+  - [Terrain]()
+  - [Towns](./towns.md)
+  - [Industries]()
+  - [Companies]()
+  - [Infrastructure]()
+  - [Stations]()
 
-# Vehicles
-
-- [Vehicle Statistics](./vehicle-stats.md)
-- [Building Vehicles](./building-vehicles.md)
-- [Routing Vehicles]()
-- [Deliveries and Payments]()
-- [Inspecting Vehicles Status]()
-- [Modifying Vehicles]()
-
-# Creating Scenarios
+- [Vehicles]()
+  - [Vehicle Statistics](./vehicle-stats.md)
+  - [Building Vehicles](./building-vehicles.md)
+  - [Routing Vehicles]()
+  - [Deliveries and Payments]()
+  - [Inspecting Vehicles Status]()
+  - [Modifying Vehicles]()
 
 - [Scenario Editor]()
   - [Entity Selection]()
