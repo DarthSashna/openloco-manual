@@ -3,3 +3,6 @@ title = "OpenLoco Manual"
 authors = ["Sashna"]
 description = "A free-content manual for OpenLoco."
 language = "en"
+
+[output.html]
+mathjax-support = true

@@ -3,7 +3,8 @@
 Copyright Jack 'Sashna' Tratt 2026.
 
 This manual is created using 
-[mdBook](https://github.com/rust-lang/mdBook).
+[mdBook](https://github.com/rust-lang/mdBook) amd makes use of 
+[MathJax](https://www.mathjax.org/).
 
 <cite>OpenLoco</cite> itself is licensed under the MIT licence.
 

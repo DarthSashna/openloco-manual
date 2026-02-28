@@ -23,7 +23,7 @@
   - [Industries]()
   - [Companies]()
   - [Infrastructure]()
-  - [Stations]()
+  - [Stations](./stations.md)
 
 - [Vehicles]()
   - [Vehicle Statistics](./vehicle-stats.md)
@@ -46,6 +46,7 @@
   - [Road Types]()
   - [Rail Types]()
   - [Bridge Types]()
+  - [Station Formulas](./stations-appendix.md)
   - [Industry Chains](./industry-chains.md)
   - [Cheats]()
 
