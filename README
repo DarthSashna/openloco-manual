@@ -45,9 +45,9 @@ This project does not aim to:
 
 Building
 
-The book is built using mdBook, version 0.5.2, which is available from:
-https://github.com/rust-lang/mdBook/tree/master/guide. It also makes use of
-MathJax, but that only requires JavaScript support in the browser.
+The book is built using mdBook, version 0.5.2, which is available from: 
+https://github.com/rust-lang/mdBook. It also makes use of MathJax, but 
+that only requires JavaScript support in the browser.
 
 
 Style Notes
