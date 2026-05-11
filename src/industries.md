@@ -34,7 +34,7 @@ Agricultural industires can add new fields from time to time in nearby
 open areas.
 
 > [!CAUTION]
-
+>
 > Agricultural industries are slow to replant fields that have been 
 > demolished: Plan ahead to avoid destroying more fields than needed 
 > when building near these industries. As [towns](towns.md) grow, they 
