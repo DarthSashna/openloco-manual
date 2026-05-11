@@ -28,11 +28,10 @@
 
 - [Vehicles]()
   - [Vehicle Statistics](./vehicle-stats.md)
-  - [Building Vehicles](./building-vehicles.md)
+  - [Building and Modifying Vehicles](./building-vehicles.md)
   - [Routing Vehicles]()
   - [Deliveries and Payments]()
   - [Inspecting Vehicles Status]()
-  - [Modifying Vehicles]()
 
 - [Scenario Editor]()
   - [Entity Selection]()
