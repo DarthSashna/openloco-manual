@@ -20,10 +20,11 @@
 - [World]()
   - [Terrain]()
   - [Towns](./towns.md)
-  - [Industries]()
+  - [Industries](./industries.md)
   - [Companies]()
   - [Infrastructure]()
   - [Stations](./stations.md)
+  - [Blueprings]()
 
 - [Vehicles]()
   - [Vehicle Statistics](./vehicle-stats.md)
