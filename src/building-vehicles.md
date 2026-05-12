@@ -42,6 +42,11 @@ dragged between them.
 Components can be sold by dragging them to the rubbish bin on the right 
 of the window. The whole vehicle can be sold by clicking the that bin.
 
+> [!CAUTION]
+>
+> All cargo will be removed whenever one sells or moves components. If 
+> the vehicle is carrying cargo, the game may ask for confirmation.
+
 Components can also be repainted. Click the painbrush on the bottom of 
 the right-hand toolbar. Two colours - the primary and second colours - 
 will be shown and can be changed by clicking on them. Click on a 
