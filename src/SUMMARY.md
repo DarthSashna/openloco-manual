@@ -29,7 +29,7 @@
 - [Vehicles]()
   - [Vehicle Statistics](./vehicle-stats.md)
   - [Building and Modifying Vehicles](./building-vehicles.md)
-  - [Routing Vehicles]()
+  - [Routing Vehicles](./routing.md)
   - [Deliveries and Payments]()
   - [Inspecting Vehicles Status]()
 
