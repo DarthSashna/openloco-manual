@@ -7,14 +7,20 @@ Rationale
 
 'Chris Sawyer's Locomotion', as with practially all games of its time, 
 comes with a manual. While this manual is mostly applicable to 
-'OpenLoco', it of course does not document the many improvements made by 
-'OpenLoco's. Documentation of those changes is scattered and not really 
-focused on new players.
+'OpenLoco', it cannot be freely redistributed or modified, does not 
+document changes made by 'OpenLoco', and is not fully suitable as a 
+digital document.
 
-Additionally, it is proprietary, just like 'Chris Sawyer's Locomotion' 
-itself. Thus, if the community manages to develop a complete set of free 
-sounds, graphics and scenarios for use with OpenLoco, players may be 
+'Chris Sawyer's Locmotion's manual is proprietary, like the orignal 
+game. Thus, if the community manages to develop a complete set of free 
+sounds, graphics and scenarios for use with 'OpenLoco', players may be 
 able to play OpenLoco, but may struggle to understand how to play.
+
+That also means that futures new to 'OpenLoco' have not be clearly 
+documented anywhere. These include cloning vehicles, holding the build 
+piece button to build multiple segments and the ability to repaint 
+individual components of vehicles. A new manual can document these 
+changes in one place.
 
 An additional limitation of the 'Chris Sawyer's Locomotion' manual is 
 that it was meant for use as a printed document. Modern retailers like 
@@ -46,37 +52,35 @@ This project does not aim to:
 Building
 
 The book is built using mdBook, version 0.5.2, which is available from: 
-https://github.com/rust-lang/mdBook. It also makes use of MathJax, but 
-that only requires JavaScript support in the browser.
+https://github.com/rust-lang/mdBook. It also uses MathJax: some chapters 
+will need the browser to support JavaScript.
 
 
 Style Notes
 
-Please keep blank lines between elements in the source. This includes 
-list items. It makes it much easier to format paragraphs.
+Keep blank lines between elements in the source. This includes list 
+items. It makes it much easier to format paragraphs.
 
-Limit paragraphs in the source to 80 characters.
+Limit lines in the source to 80 characters.
 
 I find GitHub-style tables annoying to work with and would rather use 
 embedded HTML.
 
-Please use Australian English: 'colour' instead of 'color', 'railway' 
-instead of 'railroad', 'truck' instead of 'lorry', etc.
+Use Australian English: 'colour' instead of 'color', 'railway' instead 
+of 'railroad', 'truck' instead of 'lorry', etc.
 
 Try to avoid duplicating information. For example, don't discuss the 
 exact details of cargo acceptance in both the towns and stations 
-section. One method would be discuss it in very broad terms in towns and 
-go into the exact mechanics in stations.
+section.
 
-Once the manual is comming into a more stable form, link between topics 
-as approrpriate.
+Link between topics as approrpriate.
 
 
 Licence
 
 This book is licensed under Creative Commons Attribution Share-Alike 4.0 
 International. The legal code is included in the 'LEGALCODE' file or can 
-be accessed from:
+be accessed from: 
 https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
 In summary, you may share and modify this book for any purpose, 
