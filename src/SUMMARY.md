@@ -30,8 +30,8 @@
   - [Vehicle Statistics](./vehicle-stats.md)
   - [Building and Modifying Vehicles](./building-vehicles.md)
   - [Routing Vehicles](./routing.md)
-  - [Deliveries and Payments]()
-  - [Inspecting Vehicles Status]()
+  - [Deliveries and Payments](./payments.md)
+  - [Managing Vehicles in the World]()
 
 - [Scenario Editor]()
   - [Entity Selection]()
